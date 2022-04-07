@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bg_custom_input.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/bg_item.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/bg_light_gray.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/bg_splash.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/ic_left_arrow.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/ic_logo.xml" value="0.1525" />
+        <entry key="app/src/main/res/drawable/ic_save.xml" value="0.157" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/fragment_add.xml" value="0.27060701163464884" />
+        <entry key="app/src/main/res/layout/fragment_detail.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_update.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/layout_menu_save.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/row_item_notes.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/menu/menu_detail.xml" value="0.23796296296296296" />
+        <entry key="app/src/main/res/menu/menu_home.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/menu/menu_save.xml" value="0.25793733950014464" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="NoteApp.app" />
+      </set>
+    </option>
+  </component>
+</project>
